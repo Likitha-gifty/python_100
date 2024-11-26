@@ -13,7 +13,7 @@ n1,n2= 3,6
 sum=int((n2*(n2+1)/2)- (n1*(n1+1)/2)+n1)
 print(sum)
 
-Method 3: Using Recursion
+# Method 3: Using Recursion
 
 def recursum(sum,num1,num2):
   if num1 > num2:
