@@ -24,4 +24,4 @@ else:
 # Method 3: Using Ternary Operator
 
 n = 10
-print("positive" if n>=0 else "Negative")
+print("positive") if n>=0 else print("Negative")
